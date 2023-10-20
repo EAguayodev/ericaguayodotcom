@@ -644,6 +644,15 @@ h6 {
   position: relative;
   z-index: 1;
 }
+
+.skill-section .link-group{
+  display: flex;
+  justify-content: center;
+}
+
+.skill-section .btn-text{
+  margin: 1rem 0 0 2rem;
+}
 .skill-section:after {
   content: '';
   position: absolute;
