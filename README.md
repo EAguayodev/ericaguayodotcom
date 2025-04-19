@@ -5,7 +5,7 @@
  <!--  <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/joebanner.jpg" width="100%"/> -->
 </div>
 <h1 align="center">Hi 👋, I'm Eric Aguayo</h1>
-<h3 align="center">A html email developer in Dallas | Fort Worth, Tx</h3>
+<h3 align="center">Email Developer and Web Content Editor in Dallas | Fort Worth, Texas</h3>
 <h4 align="center">Hi my name is Eric Aguayo an html developer based out of Dallas, Texas. I've worked on teaching myself and taking html email course on codingphasedotcom for about 7 months.</h4>
 
 <hr>
