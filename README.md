@@ -82,7 +82,7 @@
         </tr>
 	    <tr>
             <td width="50%">
-                <h3 align="center">Promotional Email Pure hockey</h3>
+                <h3 align="center">Promotional Email Bauer hockey</h3>
                 <div align="center" >  
                     <a href='https://ericaguayo.com' target="_blank">
                         <img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/Screenshot%202022-07-23%20at%2012-04-41%20Pure%20hockey%20email%20clone.jpg?raw=true" alt="project 3" height="100%" />
@@ -102,7 +102,7 @@
                 </div>
             </td>
             <td width="50%">
-                <h3 align="center">Newsletter Email</h3>
+                <h3 align="center">Grammarly clone Newsletter Email</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/Marriot-newsletter-screenshot-canva.png?raw=true" alt="project 4" height="100%" />
@@ -124,7 +124,7 @@
 	</tr>
 	<tr>
 		<td width="50%">
-                <h3 align="center">Transactional Email</h3>
+                <h3 align="center">Amadeus client Transactional Email</h3>
                 <div align="center">  
                     <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
                         <img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/transactional-email-5.png?raw=true" alt="project 4" height="100%" />
