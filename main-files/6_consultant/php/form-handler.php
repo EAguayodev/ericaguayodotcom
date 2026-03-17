@@ -19,7 +19,7 @@
         }
 
         // Set the recipient email address.
-        $recipient = "aguayoeric17@gmail.com"; /** DON'T FORGET TO PUT YOUR EMAIL HERE **/
+        $recipient = "eric.aguayo@ericaguayo.com"; /** DON'T FORGET TO PUT YOUR EMAIL HERE **/
 
         // Set the email subject.
         $subject = "Fungi Consultant New message from $name";
