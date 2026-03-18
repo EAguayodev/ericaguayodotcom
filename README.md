@@ -62,7 +62,7 @@
 			<td width="50%">
 				<h3 align="center">Insure-Landing-Page</h3>
 				<div align="center" >  
-					<a href='https://frontendmentor-insure-landing-page.vercel.app/' target="_blank">
+					<a href='https://insre-landing-page.netlify.app/' target="_blank">
 						<img src="https://github.com/EricAguayo90/ericaguayodotcom/blob/main/assets/project2.jpg?raw=true" alt="project 2" height="100%" />
 					</a>
 					<br>
@@ -93,7 +93,7 @@
                         <a href="https://ericaguayo.com" target="_blank">
 				<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 			</a>  
-			<a href="https://ericaguayo.com" target="_blank">
+			<a href="https://bauer-promo-email.netlify.app/" target="_blank">
 				<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 			</a>
                     </p>
@@ -113,12 +113,12 @@
                         <a href="https://ericaguayo.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ericaguayo.com" target="_blank">
+						<a href="https://grammarly-cl-e.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
                     <p><strong>HTML, CSS</strong></p>
-		    <p>Description goes here</p>
+		    		<p>Description goes here</p>
                 </div>	
             </td>
 	</tr>
@@ -135,7 +135,7 @@
                         <a href="https://ericaguayo.com" target="_blank">
 							<img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
 						</a>  
-						<a href="https://ericaguayo.com" target="_blank">
+						<a href="https://auto-transactional-email.netlify.app/" target="_blank">
 							<img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
 						</a>	
                     </p>
@@ -177,16 +177,16 @@
 <p align="center">
 	&nbsp&nbsp&nbsp
 	<a href="https://twitter.com/DevEric90" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingphase" height="30" width="40" />
+	<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Eric Aguayo" height="30" width="40" />
 	</a>&nbsp&nbsp&nbsp
 <a href="https://www.linkedin.com/in/eric-aguayo-513693184" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ericaguayo" height="30" width="40" />
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Eric Aguayo" height="30" width="40" />
 </a>&nbsp&nbsp&nbsp
-<a href="https://instagram.com/codingphase" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingphase" height="30" width="40" />
+<a href="#" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Eric Aguayo" height="30" width="40" />
 </a>&nbsp&nbsp&nbsp
-<a href="https://www.youtube.com/channel/UCNCnVb3IOFZO8d_tBJYfsAA" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codingphase" height="30" width="40" />
+<a href="https://www.youtube.com/@EAemaildev" target="_blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Eric Aguayo" height="30" width="40" />
 </a>
 </p>
 
